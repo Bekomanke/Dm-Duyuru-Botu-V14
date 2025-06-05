@@ -1,0 +1,8 @@
+{
+  "token": "Token",
+  "clientId": "CLİENT_İD",
+  "guildId": "SUNUCU_İD",
+  "authorizedRoleId": "KOMUTU_KULLANACAK_ROL_İD",
+  "targetRoleId": "DM_DUYURU_ATILACAK_ROL_İD",
+  "voiceChannelId": "BOTUN_SESE_GİRECEGİ_KANAL_İD"
+}
